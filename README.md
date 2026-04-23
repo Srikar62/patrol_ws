@@ -111,7 +111,7 @@ patrol_ws/
 - **Srikar Sunku** (PES2UG23CS629)
 - **Sugavasi Mithil** (PES2UG23CS611)
 - **T. Sai Rushil** (PES2UG23CS655)
-- **Suhas T** (PES2UG23CS618)
+- **Suhas T** (PES2UG23CS616)
 
 **Instructor**: Dr. Ruby Dinakar
 
